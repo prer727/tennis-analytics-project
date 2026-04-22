@@ -1,0 +1,5 @@
+venue_id,venue_name,city_name,country_name,country_code,timezone,complex_id
+vn_001,Court Central,Santiago,Chile,CHL,America/Santiago,cx_001
+vn_002,Court 2,Santiago,Chile,CHL,America/Santiago,cx_001
+vn_003,Center Court,Vienna,Austria,AUT,Europe/Vienna,cx_002
+vn_004,Arena 1,Dubai,UAE,ARE,Asia/Dubai,cx_003

@@ -1,0 +1,6 @@
+competition_id,competition_name,parent_id,type,gender,category_id
+comp_001,ATP Tour,,singles,men,cat_atp
+comp_002,ATP Vienna,comp_001,singles,men,cat_atp
+comp_003,ATP Challenger Doubles,,doubles,men,cat_atp
+comp_004,WTA Dubai,,singles,women,cat_wta
+comp_005,ITF Men Doubles,,doubles,men,cat_itf_men
